@@ -7,4 +7,4 @@ A Python tool to analyze network health.
    pip install -r requirements.txt
 
 2. Run the program:
-   py your_filename.py
+   py network_health_gui.py
